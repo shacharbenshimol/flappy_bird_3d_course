@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 57c9875bdefde4f4e9fed494400e6f74
+  - enabled: 1
+    path: Assets/Scenes/flappyBird.unity
+    guid: 41d806c62ac85e647a1ca33619a6ab1b
+  m_configObjects: {}
